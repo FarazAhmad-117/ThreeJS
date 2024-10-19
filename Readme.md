@@ -8,9 +8,9 @@
 - setting up vite (Done)
 - making responsive (Done)
 - orbit controls (Done)
-- geometries
-- textures
-- materials
+- geometries (Done)
+- materials (Done)
+- textures (Done)
 - lil-gui
 - lights
 - adding 3d models
