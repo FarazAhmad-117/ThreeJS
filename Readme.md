@@ -11,6 +11,6 @@
 - geometries (Done)
 - materials (Done)
 - textures (Done)
-- lil-gui
+- lil-gui (Done)
 - lights
 - adding 3d models
