@@ -6,8 +6,8 @@
 - transformation (Done)
 - animations (Done)
 - setting up vite (Done)
-- making responsive
-- orbit controls
+- making responsive (Done)
+- orbit controls (Done)
 - geometries
 - textures
 - materials
